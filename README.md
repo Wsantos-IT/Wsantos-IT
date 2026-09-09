@@ -1,16 +1,44 @@
-## Hi there 👋
+# Winston Santos 
+## Junior Network Technician | Junior Cybersecurity Analyst
 
-<!--
-**Wsantos-IT/Wsantos-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Técnico en formación enfocado en **Cybersecurity / Networking / Soporte de Redes (Cisco)**
+ 
+ [Madrid,España] &nbsp;|&nbsp; 📧 [winswast@gmail.com] &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/winswast/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Certificaciones
+
+| Certificación | Emisor | Año | Credencial |
+|---|---|---|---|
+| CCNA (Cisco Certified Network Associate) | Cisco | 2026 | [Ver credencial](https://www.credly.com/badges/7ddd7eba-3d61-46c0-be75-09634bdd1cff/linked_in_profile) |
+| CCST (Cisco Certified Support Technician | Cisco | 2026 | [Ver credencial](https://www.credly.com/badges/89409064-5a69-415d-a521-5a1049b5071f) |
+| Google Cybersecurity Proffesional Certificate | Google|  2026| [Ver credencial](https://www.credly.com/badges/ca4c1692-94fc-4a35-b80d-1be999daf782/linked_in_profile) |                        
+  
+---
+
+##  Laboratorios / Proyectos Prácticos
+
+| Lab | Descripción | Skills clave |
+|---|---|---|
+| [Lab01 - Cisco IOS Access Recovery & Factory Reset](https://github.com/Wsantos-IT/Lab01-Cisco-IOS-Access-Recovery_Reset) | Recuperación de acceso IOS y restablecimiento de fábrica en router Cisco | ROMMON, Config-register, IOS CLI |
+
+📋 Ver el resumen completo de habilidades por laboratorio en **[SKILLS.md](enlace-a-tu-repo-skills)**
+
+---
+
+##  Tecnologías y Herramientas
+
+`Cisco IOS` `ROMMON` `PuTTY` `Networking Fundamentals` `Packet Tracer` `Cybersecurity Fundamentals` `SIEM` `Linux` `Git / GitHub`
+
+---
+
+## 📈 Próximos objetivos
+
+- [ ] Agregar Lab02: [tema]
+- [ ] Agregar Lab03: [tema]
+- [ ] Sumar proyecto práctico de Ciberseguridad (SOC / SIEM / análisis de logs)
+
+---
+
+⭐ Si te interesa mi trabajo, no dudes en contactarme o revisar mis repositorios.
