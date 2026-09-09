@@ -1,7 +1,7 @@
 # Winston Santos 
 ## Junior Network Technician | Junior Cybersecurity Analyst
 
- Técnico en formación enfocado en **Cybersecurity / Networking / Soporte de Redes (Cisco)**
+ Técnico en formación enfocado en **Cybersecurity / Networks / Soporte de Redes (Cisco)**
  
 ---
 
