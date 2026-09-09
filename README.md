@@ -3,10 +3,15 @@
 
  Técnico en formación enfocado en **Cybersecurity / Networking / Soporte de Redes (Cisco)**
  
- [Madrid,España]  📧 [winswast@gmail.com]  
- 
- <img src="assets/linkedin.png" width="54"/> (https://www.linkedin.com/in/winswast)
+---
 
+ #### 🌍 Madrid, España
+ 
+ <img src="assets/gmail.png" width="54"/>       winswast@gmail.com 
+ 
+ <img src="assets/linkedin.png" width="54"/>       https://www.linkedin.com/in/winswast
+
+ 
 ---
 
 ##  Certificaciones
