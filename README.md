@@ -26,26 +26,17 @@
 
 ##  Laboratorios / Proyectos Prácticos
 
-| Lab | Descripción | Skills clave |
-|---|---|---|
-| [Lab01 - Cisco IOS Access Recovery & Factory Reset](https://github.com/Wsantos-IT/Lab01-Cisco-IOS-Access-Recovery_Reset) | Recuperación de acceso IOS y restablecimiento de fábrica en router Cisco | ROMMON, Config-register, IOS CLI |
-
-📋 Ver el resumen completo de habilidades por laboratorio en **[SKILLS.md](enlace-a-tu-repo-skills)**
-
----
-
-##  Tecnologías y Herramientas
-
-`Cisco IOS` `ROMMON` `PuTTY` `Networking Fundamentals` `Packet Tracer` `Cybersecurity Fundamentals` `SIEM` `Linux` `Git / GitHub`
+Tipo | Lab | Descripción | Skills clave |
+|---|---|---|---|
+| Redes | [Lab01 - Cisco IOS Access Recovery & Factory Reset](https://github.com/Wsantos-IT/Lab01-Cisco-IOS-Access-Recovery_Reset) | Recuperación de acceso IOS y restablecimiento de fábrica en router Cisco | ROMMON, Config-register, IOS CLI |
+|Redes | [Lab02 - Fundamentos, Configuracion y Seguridad básica](https://github.com/Wsantos-IT/Lab02-Fundamentos01-Topologia-basica) | Fundamentos, Configuración y Seguridad básica | VLANs, DNS, DHCP, TRUNKING, SSH, CDP |
 
 ---
 
 ## 📈 Próximos objetivos
 
-- [ ] Agregar Lab02: [tema]
-- [ ] Agregar Lab03: [tema]
-- [ ] Sumar proyecto práctico de Ciberseguridad (SOC / SIEM / análisis de logs)
+- [ ] Agregar Lab03: STP
+- [ ] Agregar Lab04: IP Routing
 
 ---
-
-⭐ Si te interesa mi trabajo, no dudes en contactarme o revisar mis repositorios.
+ Si te interesa mi trabajo, no dudes en contactarme o revisar mis repositorios.
