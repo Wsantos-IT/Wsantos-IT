@@ -37,7 +37,7 @@ Tipo | Lab | Descripción | Skills clave |
 
 ## 📈 Próximos objetivos
 
-Estoy construyendo y documentando laboratorios ya realizados... Paciencia :)
+27/09/2026: Estoy construyendo y documentando laboratorios ya realizados... Paciencia :)
 
 
 ---
