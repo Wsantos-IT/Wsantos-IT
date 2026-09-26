@@ -37,8 +37,8 @@ Tipo | Lab | Descripción | Skills clave |
 
 ## 📈 Próximos objetivos
 
-- [ ] Agregar Lab03: STP
-- [ ] Agregar Lab04: IP Routing
+Estoy construyendo y documentando laboratorios ya realizados... Paciencia :)
+
 
 ---
  Si te interesa mi trabajo, no dudes en contactarme o revisar mis repositorios.
