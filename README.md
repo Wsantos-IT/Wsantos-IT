@@ -6,7 +6,7 @@
 
 <img src="assets/lab04-eveng.png" width="114"/> <img src="assets/Lab-04-Topologia-logica.png" width="134"/> <img src="assets/fortinet.png" width="114"/> <img src="assets/entorno-lab04.png" width="214"/>
 
- <img src="assets/vmware.png" width="84"/> <img src="assets/eveng.png" width="84"/> <img src="assets/visio.png" width="84"/> <img src="assets/visualstudio.png" width="84"/> <img src="assets/tigervnc.png" width="84"/>
+ <img src="assets/vmware.png" width="84"/> <img src="assets/eveng.png" width="84"/> <img src="assets/visio.png" width="84"/> <img src="assets/visualstudio.png" width="84"/> <img src="assets/tigervnc.png" width="84"/> <img src="assets/linuxwindows.png" width="104"/>
 
 Tipo | Lab | Descripción | Skills clave |
 |---|---|---|---|
