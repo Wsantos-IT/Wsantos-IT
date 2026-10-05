@@ -4,7 +4,7 @@
  Técnico en formación enfocado en **Networks / Cybersecurity / Systems**
  ##  Laboratorios / Proyectos Prácticos
 
-<img src="assets/lab04-eveng.png" width="54"/> <img src="assets/ccnalogo.gif" width="54"/>
+<img src="assets/lab04-eveng.png" width="214"/> <img src="assets/Lab-04-Topologia-logica.png" width="234"/> <img src="assets/fortinet.png" width="214"/> <img src="assets/entorno-lab04.png" width="314"/>
 
 Tipo | Lab | Descripción | Skills clave |
 |---|---|---|---|
