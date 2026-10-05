@@ -31,13 +31,14 @@ Tipo | Lab | Descripción | Skills clave |
 | Redes | [Lab01 - Cisco IOS Access Recovery & Factory Reset](https://github.com/Wsantos-IT/Lab01-Cisco-IOS-Access-Recovery_Reset) | Recuperación de acceso IOS y restablecimiento de fábrica en router Cisco | ROMMON, Config-register, IOS CLI |
 |Redes | [Lab02 - Fundamentos, Configuracion y Seguridad básica](https://github.com/Wsantos-IT/Lab02-Fundamentos01-Topologia-basica) | Fundamentos, Configuración y Seguridad básica | VLANs, DNS, DHCP, TRUNKING, SSH, CDP |
 |Redes | [Lab03 - LAN-Jerarquica-tradicional](https://github.com/Wsantos-IT/Lab03-LAN-Jerarquica-tradicional-OSPF-HSRP-LACP-RAPID_PVST) | LAN Jerárquica de 3 Capas | OSPF, HSRP, Rapid PVST, Etherchannel, Network Design |
+|Redes | [Lab04 -LAN-Seguridad-ACLs-NAT-DAI-DHCPSnooping-PortSecurity](https://github.com/Wsantos-IT/Lab04-LAN-Seguridad-ACLs-NAT-DAI-DHCPSnooping-PortSecurity) | LAN Security | NAT, ACL, DAI, DHCP Snooping, Network Security Design |
 
 
 ---
 
 ## 📈 Próximos objetivos
 
-27/09/2026: Estoy construyendo y documentando laboratorios ya realizados... Paciencia :)
+05/10/2026: Estoy construyendo y documentando laboratorios ya realizados... Paciencia :)
 
 
 ---
