@@ -4,6 +4,8 @@
  Técnico en formación enfocado en **Networks / Cybersecurity / Systems**
  ##  Laboratorios / Proyectos Prácticos
 
+<img src="assets/lab04-eveng.png" width="54"/> <img src="assets/ccnalogo.gif" width="54"/>
+
 Tipo | Lab | Descripción | Skills clave |
 |---|---|---|---|
 | Redes | [Lab01 - Cisco IOS Access Recovery & Factory Reset](https://github.com/Wsantos-IT/Lab01-Cisco-IOS-Access-Recovery_Reset) | Recuperación de acceso IOS y restablecimiento de fábrica en router Cisco | ROMMON, Config-register, IOS CLI |
