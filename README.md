@@ -2,6 +2,12 @@
 ## Junior Network Technician | Junior Cybersecurity Analyst
 
  Técnico en formación enfocado en **Networks / Cybersecurity / Systems**
+ 
+ **En este portafolío encontraras:**
+ 
+ - Mis Laboratorios/Proyectos
+ - Mis Certificaciones
+
  ##  Laboratorios / Proyectos Prácticos
 
 <img src="assets/lab04-eveng.png" width="94"/> <img src="assets/Lab-04-Topologia-logica.png" width="94"/> <img src="assets/fortinet.png" width="94"/> <img src="assets/entorno-lab04.png" width="94"/>
