@@ -1,5 +1,5 @@
 # Winston Santos 
-## Junior Network Technician | Junior Cybersecurity Analyst
+## Junior Network Technician | Junior Cybersecurity Analyst | CCNA | CCST |
 
  Técnico en formación enfocado en **Networks / Cybersecurity / Systems**
  
