@@ -7,6 +7,7 @@
  
  - Mis Laboratorios/Proyectos
  - Mis Certificaciones
+ - Guias/Playbooks
 
  ##  Laboratorios / Proyectos Prácticos
 
