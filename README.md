@@ -44,7 +44,9 @@ Tipo | Lab | Descripción | Skills clave |
   
 ---
 
-
+##  Guias/Playbooks
+- [Ebook Fundamentos de las redes (CCNA) by Win](https://github.com/Wsantos-IT/Ebook-CCNA-Fundamentos-de-redes-by-Win)
+- [Guia de instalación y configuración Gns3/vmware en Windows 2026](https://github.com/Wsantos-IT/guia-gns3-vmware-windows2026)
 
 ## 📈 Próximos objetivos
 
