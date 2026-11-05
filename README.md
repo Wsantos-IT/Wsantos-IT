@@ -52,7 +52,7 @@ Tipo | Lab | Descripción | Skills clave |
 
 ## 📈 Próximos objetivos
 
-27/10/2026: Estoy construyendo y documentando laboratorios ya realizados... Paciencia :)
+04/11/2026: Estoy construyendo y documentando un laboratorio de Monitorizacion con Zabbix!!
 proximo lab: Monitorización
 
 
