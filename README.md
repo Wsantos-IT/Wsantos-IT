@@ -22,7 +22,7 @@ Tipo | Lab | Descripción | Skills clave |
 |Redes | [Lab03 - LAN-Jerarquica-tradicional](https://github.com/Wsantos-IT/Lab03-LAN-Jerarquica-tradicional-OSPF-HSRP-LACP-RAPID_PVST) | LAN Jerárquica de 3 Capas | OSPF, HSRP, Rapid PVST, Etherchannel, Network Design |
 |Redes/Security | [Lab04 -LAN-Seguridad-ACLs-NAT-DAI-DHCPSnooping-PortSecurity](https://github.com/Wsantos-IT/Lab04-LAN-Seguridad-ACLs-NAT-DAI-DHCPSnooping-PortSecurity) | LAN Security | NAT, ACL, DAI, DHCP Snooping, Network Security Design |
 |Redes/Security | [Lab05-VPN-Site-To-Site-GRE-over-IPsec](https://github.com/Wsantos-IT/Lab05-VPN-Site-To-Site-GRE-over-IPsec) | Enterprise VPN Site-to-Site  | VPNs, GRE over IPSec, IKEv2, Cryptography, Network Security and Availability Design |
-|Redes/Security | [Lab06-Monitorizacion-de-red-Zabbix-SNMP](https://github.com/Wsantos-IT/Lab06-Monitorizacion-de-red-Zabbix-SNMP) | NOC, Monitorizacion de red | Zabbix, SNMP, PostgreSQL
+|Redes/NOC | [Lab06-Monitorizacion-de-red-Zabbix-SNMP](https://github.com/Wsantos-IT/Lab06-Monitorizacion-de-red-Zabbix-SNMP) | NOC, Monitorizacion de red | Zabbix, SNMP, PostgreSQL
 
 
 ---
