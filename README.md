@@ -53,8 +53,8 @@ Tipo | Lab | Descripción | Skills clave |
 
 ## 📈 Próximos objetivos
 
-04/11/2026: Estoy construyendo y documentando un laboratorio de Monitorizacion con Zabbix!!
-proximo lab: Monitorización
+17/11/2026: Estoy construyendo y documentando mas laboratorios
+proximo lab: Fortinet
 
 
 ---
